@@ -1,0 +1,30 @@
+{
+  "name": "frontend-blank",
+  "version": "0.0.1",
+  "description": "Заготовка для frontend приложения",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shamalex/frontend_gulp"
+  },
+  "dependencies": {
+    "gulp": "*",
+    "gulp-less": "*",
+    "gulp-sass": "*",
+    "gulp-coffee": "*",
+    "gulp-watch": "*",
+    "gulp-preprocess": "*",
+    "gulp-copy": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-image": "*",
+    "gulp-uglify": "*",
+    "gulp-env": "*",
+    "gulp-rename": "*",
+    "gulp-ignore": "*",
+    "gulp-minify-css": "*",
+    "gulp-concat": "*",
+    "gulp-pxtorem": "*"
+  },
+  "license": "MIT"
+}
+
+
